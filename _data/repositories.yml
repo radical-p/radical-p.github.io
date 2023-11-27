@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - radical-p
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - radical-p/Seam-Carving-yolov5
+  - radical-p/Summer-2022-Tapsi-and-Rahnema-Internship
+  - radical-p/MIO-TCD-Classification-Resnet50 
+  - radical-p/iris_classification 
+  - radical-p/Logistic_Regression_From_Scratch_On_Musk_Dataset 
+  - radical-p/Breakout_Deep_Q_Reinforcement_Learning
+  - radical-p/image_reconstruction_using_genetic_algorithm
+  - radical-p/mano-simulator
+  - radical-p/HeyDay-IUT

@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching Assistantships
+description: Giving lectures, Preparing the homeworks, projects, grading.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Artificial Intelligence - fall 2023 - instructor: Dr. Hakim Davoudi
 
-Organize your courses by years, topics, or universities, however you like!
+Computer Architecture - fall 2023 - instructor: Dr. Amir Khorsandi
+
+Computer Architecture - spring 2023 - instructor: Dr. Amir Khorsandi
+
+Digital System Design - spring 2023 - instructor: Dr. Amir Akhavan Bitaghsir
+
+Data Structure - fall 2022 - instructor: Dr. Abdolreza Mirzaie
+
+Fundamental of Programming - fall 2022 - instructor: Dr. Samaneh Hosseini Semnani
