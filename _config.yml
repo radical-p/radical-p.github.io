@@ -10,7 +10,7 @@ email: pouyabeh80@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Pouya Behzadifar Personal Website
 footer_text: 
-keywords:   # add your own keywords or leave empty
+keywords: pouya behzadifar, pouya, behzadifar, Pouya, Behzadifar, Pouya Behzadifar # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
