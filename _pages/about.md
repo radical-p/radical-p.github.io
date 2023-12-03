@@ -8,10 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: #>
-    #<p>555 your office number</p>
-    #<p>123 your address street</p>
-    #<p>Your City, State 12345</p>
+  more_info: >
+    <p>Department of Electrical</p>
+    <p>and Computer Engineering</p>
+    <p>Isfahan University of Technology</p> 
+    <p>p.behzadifar@ec.iut.ac.ir</p>
 
 news:   # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,8 +21,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hello! 
+Hi!
 
-I am Pouya Behzadifar, a Computer Engineering student at Isfahan University of Technology, concentrating on Artificial Intelligence. my focus is on applying AI in practical, impactful scenarios, particularly in computer vision, medical imaging and robotics. In addition to my academic and technical pursuits, I also enjoy playing the piano, hiking, watching movies, and engaging with video games, which provide a creative and relaxing counterbalance to my professional endeavors.
+I am Pouya Behzadifar, a Computer Engineering student at Isfahan University of Technology, concentrating on Artificial Intelligence. my focus is on applying AI in practical, impactful scenarios, particularly in computer vision, medical imaging and robotics. In addition to my academic and technical pursuits, I also enjoy playing the piano, traveling, watching movies, and engaging with video games.
 
 
