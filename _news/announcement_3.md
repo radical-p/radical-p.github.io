@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, “Enhanced Nuclei Segmentation in Histopathological Images Using a Novel Preprocessing Pipeline and Deep Learning”, has been accepted for presentation at the IEEE AI IoT 2024 Congress in Seattle!
+Our paper,  <a href= "http://dx.doi.org/10.1109/AIIoT61789.2024.10578993"> “Enhanced Nuclei Segmentation in Histopathological Images Using a Novel Preprocessing Pipeline and Deep Learning” </a> , has been accepted for presentation at the IEEE AI IoT 2024 Congress in Seattle!

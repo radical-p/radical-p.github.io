@@ -23,6 +23,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi!
 
-I am Pouya Behzadifar, a Computer Engineering student at Isfahan University of Technology, concentrating on Artificial Intelligence. my focus is on applying AI in practical, impactful scenarios, particularly in computer vision, medical imaging and robotics. In addition to my academic and technical pursuits, I also enjoy playing the piano, traveling, watching movies, and engaging with video games.
+I am Pouya Behzadifar, a Computer Engineering student at Isfahan University of Technology, concentrating on Artificial Intelligence. my focus is on applying AI in practical, impactful scenarios, particularly in computer vision, medical imaging and robotics. 
 
 
