@@ -8,11 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Department of Electrical</p>
-    <p>and Computer Engineering</p>
-    <p>Isfahan University of Technology</p> 
-    <p>p.behzadifar@ec.iut.ac.ir</p>
+  # more_info: >
+  #   <p>Department of Electrical</p>
+  #   <p>and Computer Engineering</p>
+  #   <p>Isfahan University of Technology</p> 
+  #   <p>p.behzadifar@ec.iut.ac.ir</p>
 
 news: true # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
