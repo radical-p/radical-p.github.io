@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching 
+title: Teaching Assistantship
 description: Giving lectures, Preparing the homeworks, projects, grading.
 nav: true
 nav_order: 5
